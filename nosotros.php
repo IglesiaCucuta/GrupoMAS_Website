@@ -71,13 +71,13 @@ $paginagrupomas = "nosotros";
                     </div>
                 </div>
                 <!-- about team photo-->
+                <!--
                 <div class="row about-section-separate">
                     <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="about-team">
                             <img src="img/carechter.png" alt="">
                         </div>
                     </div>
-                    <!-- about brief-->
                     <div class="col-xl-6 col-lg-6 col-md-6 margin-top-sb-30 margin-top-lb-30">
                         <div class="about-content">
                             <br>
@@ -92,6 +92,7 @@ $paginagrupomas = "nosotros";
                         </div>
                     </div>
                 </div>
+                -->
             </div>
         </div>
     </section>
