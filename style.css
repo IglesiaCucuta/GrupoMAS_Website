@@ -421,7 +421,7 @@ ul {
 }
 
 .main-menu ul li a:hover {
-	color: #505262;
+	color: #C10126;
 }
 
 .main-menu ul li a:before {
@@ -429,7 +429,7 @@ ul {
 	position: absolute;
 	width: 0px;
 	height: 3px;
-	background-color: #323657;
+	background-color: #C10126;
 	left: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -442,7 +442,7 @@ ul {
 	position: absolute;
 	width: 0px;
 	height: 3px;
-	background-color: #323657;
+	background-color: #C10126;
 	right: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -456,7 +456,7 @@ ul {
 	position: absolute;
 	width: 50%;
 	height: 3px;
-	background-color: #323657;
+	background-color: #C10126;
 	left: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -470,7 +470,7 @@ ul {
 	position: absolute;
 	width: 50%;
 	height: 3px;
-	background-color: #323657;
+	background-color: #C10126;
 	right: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -480,7 +480,7 @@ ul {
 }
 
 .main-menu ul li a.current {
-	color: #323657;
+	color: #C10126;
 }
 
 .main-menu ul li a:hover:before {
@@ -714,10 +714,10 @@ ul.dropdown li a:after {
 	height: 100vh;
 	width: 100%;
 	background-repeat: no-repeat;
-	background-image: url('img/header.png');
+	background-image: url('img/Chica1.jpg');
 	background-attachment: fixed;
 	background-size: cover;
-	background-position: center;
+	background-position: top;
 	position: relative;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -2294,7 +2294,7 @@ footer p {
 
 .contactus-area {
 	background-color: #fff;
-	padding: 160px 0 120px 0;
+	padding: 0px 0 120px 0;
 }
 
 /*16.1 Contact Us Banner*/
@@ -2663,6 +2663,49 @@ footer p {
 }
 
 .portfolio-filter li.active:before {
+	position: absolute;
+	content: "";
+	width: 100%;
+	-webkit-box-shadow: 0px 0px 20px rgba(20, 20, 20, 0.1);
+	border: solid 1px transparent;
+	border-image-outset: 0;
+	border-image-repeat: stretch;
+	border-image-slice: 100%;
+	border-image-source: none;
+	border-image-width: 1;
+	border-image: linear-gradient(238.45deg, #49e513 3.32%, #42D2FF 98.6%);
+	border-image-slice: 100%;
+	border-image-slice: 1;
+	bottom: 0;
+	left: 0;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+/*17.3.1 Equipo Filtering*/
+.equipo-filter {
+	text-align: center;
+	margin-bottom: 30px
+}
+
+.equipo-filter li {
+	display: inline-block;
+	margin-right: 25px;
+	position: relative
+}
+
+.equipo-filter li:last-child {
+	margin-right: 0px
+}
+
+.equipo-filter li a {
+	display: inline-block;
+	padding: 8px 0px;
+	color: #000;
+	text-transform: capitalize;
+}
+
+.equipo-filter li.active:before {
 	position: absolute;
 	content: "";
 	width: 100%;

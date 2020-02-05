@@ -4,13 +4,7 @@
 	Animation js active
 	------------------------------ */
 	AOS.init();
-	/*----------------------------
-	Counter-up
-	------------------------------ */
-	$('.counter').counterUp({
-		delay: 10,
-		time: 1000
-	});
+	
 	/*----------------------------
      Video Popup JS
 	----------------------------*/
@@ -22,78 +16,6 @@
 		fixedContentPos: false
 	});
 
-	/*-----------------------------
-Portfolio Carousel
-------------------------------*/
-
-	$('.portfolio-item-slider').slick({
-		dots: false,
-		arrows: true,
-		prevArrow: "<i class='fas fa-chevron-left left-arrow'></i>",
-		nextArrow: "<i class='fas fa-chevron-right right-arrow'></i>",
-		infinite: true,
-		lazyLoad: 'ondemand',
-		autoplay: true,
-		speed: 500,
-		slidesToShow: 4,
-		slidesToScroll: 1,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 1,
-					dots: false
-				}
-    		},
-			{
-				breakpoint: 800,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1,
-					dots: false
-				}
-    		},
-			{
-				breakpoint: 600,
-				settings: {
-					slidesToShow: 1,
-					slidesToScroll: 1,
-					dots: false
-				}
-    		}
-
-			]
-	});
-		/*-----------------------------
-Testimonial Carousel
-------------------------------*/
-		$('.testimonial-slider').slick({
-		dots: false,
-		arrows: true,
-		prevArrow: "<i class='fas fa-chevron-left left-arrow-2'></i>",
-		nextArrow: "<i class='fas fa-chevron-right right-arrow-2'></i>",
-		infinite: true,
-		autoplay: false,
-		speed: 1200,
-		slidesToShow: 1,
-		slidesToScroll: 1,
-	});
-			/*-----------------------------
-Project Carousel
-------------------------------*/
-		$('.single-project-slider').slick({
-		dots: false,
-		arrows: true,
-		prevArrow: "<i class='fas fa-chevron-left left-arrow-3'></i>",
-		nextArrow: "<i class='fas fa-chevron-right right-arrow-3'></i>",
-		infinite: true,
-		autoplay: true,
-		speed: 1200,
-		slidesToShow: 1,
-		slidesToScroll: 1,
-	});
-	
 	/*----------------------------
 	Search
 	------------------------------ */
@@ -130,26 +52,32 @@ Project Carousel
 	}
 	fixed_top_menu();
 
+	
 	/*-----------------
-	Scroll-Up
-	-----------------*/
-	$.scrollUp({
-		scrollText: '<i class="far fa-arrow-alt-circle-up"></i>',
-		easingType: 'linear',
-		scrollSpeed: 1000,
-		animation: 'fade'
-	});
-	/*-----------------
-    POrtfolio Filter
+    Portfolio Filter
     -----------------*/
 	var $grid = $('.grid').isotope({
 		percentPosition: true,
 	})
+
+	var $equipos = $('.equipos').isotope({
+		percentPosition: true,
+	});
+
 	$('.portfolio-filter').on('click', 'a', function (e) {
 		e.preventDefault();
 		$(this).parent().addClass('active').siblings().removeClass('active');
 		var filterValue = $(this).attr('data-filter');
 		$grid.isotope({
+			filter: filterValue
+		});
+	});
+
+	$('.equipo-filter').on('click', 'a', function (e) {
+		e.preventDefault();
+		$(this).parent().addClass('active').siblings().removeClass('active');
+		var filterValue = $(this).attr('data-filter');
+		$equipos.isotope({
 			filter: filterValue
 		});
 	});
