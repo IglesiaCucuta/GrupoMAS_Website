@@ -705,7 +705,7 @@ ul.dropdown li a:after {
 	color: #fff;
 	font-size: 2rem;
 	position: absolute;
-	top: GIFhome.5rem;
+	top: 0.5rem;
 	right: 2rem;
 }
 
@@ -714,7 +714,7 @@ ul.dropdown li a:after {
 	height: 100vh;
 	width: 100%;
 	background-repeat: no-repeat;
-	background-image: url('img/GIFhome.gif');
+	background-image: url('img/GIFHome.gif');
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: top;
