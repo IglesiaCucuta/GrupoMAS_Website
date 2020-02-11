@@ -43,7 +43,6 @@ $paginagrupomas = "contacto";
 		<div class="container">
 			<div class="single-contact-area">
 				<div class="row">
-					<!--single contact-->
 					<div class="col-xl-4 col-lg-12 col-md-12 col-sm-12">
 						<div class="single-contact-info">
 							<div class="info-icon">
@@ -56,7 +55,6 @@ $paginagrupomas = "contacto";
 							</div>
 						</div>
 					</div>
-					<!--single contact-->
 					<div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 margin-top-sb-30">
 						<div class="single-contact-info">
 							<div class="info-icon">
@@ -69,7 +67,6 @@ $paginagrupomas = "contacto";
 							</div>
 						</div>
 					</div>
-					<!--single contact-->
 					<div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 margin-top-sb-30">
 						<div class="single-contact-info large-mb-d">
 							<div class="info-icon">
@@ -87,7 +84,6 @@ $paginagrupomas = "contacto";
 				<br>
 				<br>
 				<div class="row">
-					<!--single contact-->
 					<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-top-sb-30">
 						<div class="single-contact-info">
 							<div class="info-icon">
@@ -99,7 +95,6 @@ $paginagrupomas = "contacto";
 							</div>
 						</div>
 					</div>
-					<!--single contact-->
 					<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-top-sb-30">
 						<div class="single-contact-info large-mb-d">
 							<div class="info-icon">
@@ -113,11 +108,10 @@ $paginagrupomas = "contacto";
 					</div>
 				</div>
 			</div>
-			<!--contact form area-->
+			<!--
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="contact-form-area">
-						<!--contact left bg-->
 						<div class="contact-left-bg">
 							<img src="img/contact-p-2.png" alt="">
 						</div>
@@ -135,20 +129,18 @@ $paginagrupomas = "contacto";
 								</div>
 							</form>
 						</div>
-						<!--contact right bg-->
 						<div class="contact-right-bg">
 							<img src="img/contact-p-1.png" alt="">
 						</div>
 					</div>
 				</div>
 			</div>
+			-->
 		</div>
 	</div>
 	<?php include_once('inc/footer.php'); ?>
 	<!-- Jquery JS -->
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
-	<!-- Proper JS -->
-	<script src="js/popper.min.js"></script>
 	<!-- Bootstrap Js -->
 	<script src="js/bootstrap.min.js"></script>
 	<!-- Video popup Js -->
@@ -157,10 +149,6 @@ $paginagrupomas = "contacto";
 	<script src="js/meanmenu.min.js"></script>
 	<!-- Animation Js -->
 	<script src="js/aos.min.js"></script>
-	<!-- Filtering Js -->
-	<script src="js/isotope.min.js"></script>
-	<!-- Background Move Js -->
-	<script src="js/jquery.backgroundMove.js"></script>
 	<!-- Main Js -->
 	<script src="js/main.js"></script>
 </body>

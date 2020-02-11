@@ -36,10 +36,6 @@ $paginagrupomas = "nosotros";
     <?php include_once('inc/navbar.php'); ?>
     <!-- =========About Header Image Area=========== -->
     <div class="about-hero-banner">
-        <div class="about-hero-text">
-            <h1>Know more about Us</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a viverra leo. </p>
-        </div>
     </div>
     <!-- =========About Conetnt Area=========== -->
     <section id="about">
@@ -101,40 +97,56 @@ $paginagrupomas = "nosotros";
         <div class="container">
             <div class="row">
                 <!-- section heading text-->
-                <div class="col-xl-6 d-flex align-items-center">
+                <div class="col-xl-12 d-flex align-items-center">
                     <div class="section-heading-2 section-heading-2-p-a about-counter-text">
-                        <h4>Summary</h4>
-                        <h3>Achivement we have</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit eos iste accusamus ipsum temporibus officia assumenda, in tempora expedita aperiam magnam voluptatum culpa hic dolore molestiae eius magni! Accusantium optio impedit neque assumenda autem exercitationem aliquam cupiditate, quaerat iusto vero, necessitatibus sapiente accusamus blanditiis voluptas aperiam deleniti alias.</p>
-                        <div class="section-button">
-                            <a href="#">Request quote</a>
-                        </div>
+                        <h3>¿Qué hacemos?</h3>
+                        <p>Un proceso de comunicación MÁS fácil. Nos unimos para generar ideas que permitan dar a conocer su producto o servicio con efectividad.</p>
+                        <br>
+                        <h4>¿Cómo lo hacemos?</h4>
+                        <p>Eso lo verá a continuación...</p>
                     </div>
                 </div>
-                <div class="col-xl-6">
+                <div class="col-xl-12">
                     <div class="row">
-                        <!-- single-coutdown-->
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 single-count-item-mb">
-                            <div class="single-count-area"><img src="img/counter/manager.png" alt=""> <br> 1800
-                                <p>projects</p>
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 offset-xl-2 offset-lg-2 single-count-item-mb">
+                            <div class="single-count-area"><img src="img/counter/manager.png" alt="">
+                                <br><br>
+                                <p>Producción de Material POP</p>
+                                (Point of Purchase)
+                                <p></p>
+                                Punto de Compra
                             </div>
                         </div>
-                        <!-- single-coutdown-->
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 single-count-item-mb">
-                            <div class="single-count-area"><img src="img/counter/chart.png" alt=""><br>1000
-                                <p>clients</p>
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 offset-md-3 offset-lg-0 single-count-item-mb">
+                            <div class="single-count-area"><img src="img/counter/chart.png" alt="">
+                                <br><br>
+                                <p>Producción de Publicidad BTL</p>
+                                (Below the lines)
+                                <p></p>
+                                Bajo la línea
                             </div>
                         </div>
-                        <!-- single-coutdown-->
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-count-area"> <img src="img/counter/coin.png" alt=""> <br> 150
-                                <p>profit</p>
+                        
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
+                            <div class="single-count-area"><img src="img/counter/manager.png" alt="">
+                                <br><br>
+                                <p>Producción de Audio</p>
                             </div>
                         </div>
-                        <!-- single-coutdown-->
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-top-sb-30">
-                            <div class="single-count-area"> <img src="img/counter/theme.png" alt=""> <br> 500
-                                <p>coming</p>
+                        
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
+                            <div class="single-count-area"><img src="img/counter/chart.png" alt="">
+                                <br><br>
+                                <p>Producción de Video</p>
+                            </div>
+                        </div>
+                        
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
+                            <div class="single-count-area"><img src="img/counter/chart.png" alt="">
+                                <br><br>
+                                <p>Producción Gráfica</p>
                             </div>
                         </div>
                     </div>
@@ -142,18 +154,9 @@ $paginagrupomas = "nosotros";
             </div>
         </div>
     </div>
+    <!--
     <div class="team-area">
         <div class="container">
-            <!--
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12">
-                    <div class="section-heading-3">
-                        <h4>La calidad se logra</h4>
-                        <h3>En Equipo</h3>
-                    </div>
-                </div>
-            </div>
-            -->
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                     <div class="equipo-filter">
@@ -172,7 +175,6 @@ $paginagrupomas = "nosotros";
                 </div>
             </div>
             <div class="row equipos">
-                <!--single team-->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 equipo-administrativo equipo-periodistas">
                     <div class="single-team">
                         <div class="team-image">
@@ -194,7 +196,6 @@ $paginagrupomas = "nosotros";
                         </div>
                     </div>
                 </div>
-                <!--single team-->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 equipo-administrativo">
                     <div class="single-team">
                         <div class="team-image">
@@ -216,7 +217,6 @@ $paginagrupomas = "nosotros";
                         </div>
                     </div>
                 </div>
-                <!--single team-->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 equipo-administrativo equipo-redes">
                     <div class="single-team">
                         <div class="team-image">
@@ -238,7 +238,6 @@ $paginagrupomas = "nosotros";
                         </div>
                     </div>
                 </div>
-                <!--single team-->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 equipo-productores equipo-creativos">
                     <div class="single-team">
                         <div class="team-image">
@@ -260,7 +259,6 @@ $paginagrupomas = "nosotros";
                         </div>
                     </div>
                 </div>
-                <!--single team-->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 equipo-periodistas">
                     <div class="single-team">
                         <div class="team-image">
@@ -775,12 +773,12 @@ $paginagrupomas = "nosotros";
             <div class="row">
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-7">
                     <div class="callto-action-text">
-                        <h5>Like what you see? <span>Let’s work</span> </h5>
+                        <h5>¿Preparado? <span>Hora de trabajar en equipo</span> </h5>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-5">
                     <div class="callto-action-btn">
-                        <a href="#">contact us</a>
+                        <a href="/contacto">Contáctenos</a>
                     </div>
                 </div>
             </div>
@@ -789,8 +787,6 @@ $paginagrupomas = "nosotros";
     <?php include_once('inc/footer.php'); ?>
     <!-- Jquery JS -->
     <script src="js/vendor/jquery-2.2.4.min.js"></script>
-    <!-- Proper JS -->
-    <script src="js/popper.min.js"></script>
     <!-- Bootstrap Js -->
     <script src="js/bootstrap.min.js"></script>
     <!-- Video popup Js -->
@@ -799,10 +795,6 @@ $paginagrupomas = "nosotros";
     <script src="js/meanmenu.min.js"></script>
     <!-- Animation Js -->
     <script src="js/aos.min.js"></script>
-    <!-- Filtering Js -->
-    <script src="js/isotope.min.js"></script>
-    <!-- Background Move Js -->
-    <script src="js/jquery.backgroundMove.js"></script>
     <!-- Main Js -->
     <script src="js/main.js"></script>
 </body>

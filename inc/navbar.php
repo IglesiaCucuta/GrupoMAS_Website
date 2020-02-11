@@ -29,7 +29,7 @@
                                         <a <?php echo ($paginagrupomas == "nosotros") ? 'class="current"' : ''; ?> href="./nosotros">Nosotros</a>
                                     </li>
                                     <li>
-                                        <a href="./medios">Medios <i class="fas fa-angle-down"></i>
+                                        <a <?php echo ($paginagrupomas == "medios") ? 'class="current"' : ''; ?> href="./medios">Medios <i class="fas fa-angle-down"></i>
                                         </a>
                                         <ul class="dropdown">
                                             <li><a href="https://frecuenciaf.com/">Radio</a></li>

@@ -56,14 +56,7 @@
 	/*-----------------
     Portfolio Filter
     -----------------*/
-	var $grid = $('.grid').isotope({
-		percentPosition: true,
-	})
-
-	var $equipos = $('.equipos').isotope({
-		percentPosition: true,
-	});
-
+	
 	$('.portfolio-filter').on('click', 'a', function (e) {
 		e.preventDefault();
 		$(this).parent().addClass('active').siblings().removeClass('active');
@@ -100,12 +93,6 @@
 	$(window).on('load', function () {
 		$("#status").on('fadeOut', "slow");
 		$("#preloader").on('delay', 500).on('fadeOut', "slow").remove();
-	});
-	/*----------------------------
-	Move Background
-	------------------------------ */
-	$(function () {
-		$('.big-footer').backgroundMove();
 	});
 
 

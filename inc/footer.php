@@ -1,27 +1,24 @@
-<!-- =========Footer Area=========== -->
     <section id="footer-fixed">
         <div class="big-footer">
             <div class="container">
                 <div class="row">
                     <!--footer logo-->
-                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
+                    <div class="col-6 offset-3 text-center">
                         <div class="footer-logo">
-                            <a href="#">
-                                <img src="img/LogoMAS_Navbar.png" alt="Grupo de Comunicaciones MÁS">
+                            <a href="/">
+                                <img src="img/LogoMAS.png" alt="Grupo de Comunicaciones MÁS">
                             </a>
-                            <p> We have bothh premium and free website templates. Build your professional website with us.</p>
                         </div>
-                        <!--footer social-->
                         <div class="social">
                             <ul>
                                 <li><a class="footer-socials" href="https://facebook.com/TuFrecuenciaF"><i class="fab fa-facebook"></i></a></li>
-                                <li><a class="footer-socials" href="https://"><i class="fab fa-instagram"></i></a></li>
-                                <li><a class="footer-socials" href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a class="footer-socials" href="#"><i class="fab fa-youtube"></i></a></li>
+                                <li><a class="footer-socials" href="https://instagram.com/TuFrecuenciaF"><i class="fab fa-instagram"></i></a></li>
+                                <li><a class="footer-socials" href="https://twitter.com/TuFrecuenciaF"><i class="fab fa-twitter"></i></a></li>
+                                <li><a class="footer-socials" href="https://youtube.com/TuFrecuenciaF"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
-                    <!--footer quick links-->
+                    <!--
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
                         <div class="footer-heading">
                             <h3>quick links</h3>
@@ -36,7 +33,6 @@
                             </ul>
                         </div>
                     </div>
-                    <!--footer latest work-->
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
                         <div class="footer-heading">
                             <h3>Latest works</h3>
@@ -51,7 +47,6 @@
                             </ul>
                         </div>
                     </div>
-                    <!--footer subscribe-->
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
                         <div class="footer-heading">
                             <h3>Get Updates</h3>
@@ -63,11 +58,12 @@
                             </form>
                         </div>
                     </div>
+                    -->
                 </div>
             </div>
         </div>
         <!--copyright-->
         <footer>
-            <p>All rights reserved @ enventer 2019</p>
+            <p>Todos los derechos reservados. Grupo de Comunicaciones MÁS 2020</p>
         </footer>
     </section>
