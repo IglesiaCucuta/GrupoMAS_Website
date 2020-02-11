@@ -42,11 +42,11 @@ $paginagrupomas = "medios";
         <div class="portfolio-area">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="col-xl-8 col-lg-8 col-md-8">
                         <div class="section-heading-2 portfolio-pattern">
-                            <h4>Case Study</h4>
-                            <h3>Our Recent Work</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat rutrum turpis, sit amet hendrerit metus vulputate id.</p>
+                            <h4>Conoce nuestro alcance</h4>
+                            <h3>En los medios de comunicación</h3>
+                            <p>Contamos con una amplia presencia en todos los medios de comunicación: Radio, televisión, impresos y en el creciente mundo digital</p>
                             <div class="p-pattern">
                                 <img src="img/portfolio/p-pattern.png" alt="">
                             </div>
@@ -54,55 +54,72 @@ $paginagrupomas = "medios";
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="portfolio-button-area">
+                            <!--
                             <div class="section-button">
                                 <a href="#">view more</a>
                             </div>
+                            -->
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
                                 <img src="img/blog/1.jpg" alt="">
                                 <div class="blog-post-date">
-                                    <span>08 jun</span>
+                                    <span>Radio</span>
                                 </div>
                             </div>
                             <div class="s-blog-content">
-                                <h4>Marketing Experties</h4>
-                                <p>Lorem ipsum dolor sit amet adipisicing elit. Sunt enim, quas et libero excepturi!</p>
-                                <a href="#">Read More</a>
+                                <h4>Frecuencia F</h4>
+                                <p>Contamos con una emisora AM en la frecuencia de los 1370 en el área metropolitana de Cúcuta, con transmisión 24/7 en su dial, además de señal por internet</p>
+                                <a href="https://frecuenciaf.com/radio">Conoce la radio</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-top-sb-30">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
                                 <img src="img/blog/3.png" alt="">
                                 <div class="blog-post-date">
-                                    <span>09 aug</span>
+                                    <span>TV</span>
                                 </div>
                             </div>
                             <div class="s-blog-content">
-                                <h4>design Experties</h4>
-                                <p>Lorem ipsum dolor sit amet adipisicing elit. Sunt enim, quas et libero excepturi!</p>
-                                <a href="#">Read More</a>
+                                <h4>Frecuencia F TV</h4>
+                                <p>Comenzando transmisión en Agosto de 2018, actualmente llega a varios municipios de Norte de Santander a través de los operadores Cable Éxito y TVNorte</p>
+                                <a href="https://frecuenciaf.com/tv">Conoce el canal</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-top-sb-30 margin-top-lb-30">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
                                 <img src="img/blog/2.png" alt="">
                                 <div class="blog-post-date">
-                                    <span>12 jul</span>
+                                    <span>Impresos</span>
                                 </div>
                             </div>
                             <div class="s-blog-content">
-                                <h4>SEO Experties</h4>
-                                <p>Lorem ipsum dolor sit amet adipisicing elit. Sunt enim, quas et libero excepturi!</p>
-                                <a href="#">Read More</a>
+                                <h4>Boletín Dominical</h4>
+                                <p>Llegando cada semana directamente a la mano de los más de 4000 asistentes dominicales de la Iglesia Centro Cristiano en el barrio Los Pinos.</p>
+                                <a href="https://revistahaymas.com">Conoce además, la revista</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="home-single-blog">
+                            <div class="s-blog-image">
+                                <img src="img/blog/1.jpg" alt="">
+                                <div class="blog-post-date">
+                                    <span>Digital</span>
+                                </div>
+                            </div>
+                            <div class="s-blog-content">
+                                <h4>Redes Sociales</h4>
+                                <p>Somos los encargados de administrar la presencia en internet de la Iglesia Centro Cristiano y de su pastor fundador, el misionero José Satirio Dos Santos.</p>
+                                <a href="https://www.centrocristiano.com.co">Conoce más de la iglesia</a>
                             </div>
                         </div>
                     </div>

@@ -34,10 +34,6 @@ $paginagrupomas = "contacto";
     <?php include_once('inc/navbar.php'); ?>
 	<!-- =========Contact Image Area=========== -->
 	<div class="contact-hero-banner">
-		<div class="contact-banner-text">
-			<h1>Ponte en contacto</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis aliquet eros. Integer <br> placerat ultricesLorem ipsum dolor sit amet, consectetur adipiscing elit. In quis .</p>
-		</div>
 	</div>
 	<div class="contactus-area">
 		<div class="container">
