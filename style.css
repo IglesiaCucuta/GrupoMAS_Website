@@ -56,7 +56,7 @@ Website: www.enventer.com
 	10.2 Single Price Button
 	10.3 Price Pattern Animation
 
-11. Blog Area CSS	
+11. Blog Area CSS
 	11.1 Single Blog Image
 	11.2 Single Blog PostDate
 	11.3 Single Blog Content
@@ -2418,7 +2418,8 @@ footer p {
 }
 
 .info-icon i {
-	background: linear-gradient(180deg, #89F794 0%, #4EDAE5 100%);
+	/*background: linear-gradient(180deg, #89F794 0%, #4EDAE5 100%);*/
+	background: #323657;
 	color: #fff;
 	height: 90px;
 	width: 90px;

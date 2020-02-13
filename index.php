@@ -50,12 +50,12 @@ $paginagrupomas = "inicio";
                             <!--header text-->
                             <div class="intro-text">
                                 <h1>¿NO SABE <br>QUÉ HACER?</h1>
-                                <p>Tenemos un plan diseñado perfectamente diseñado para sus necesidades</p>
+                                <p>Tenemos un plan diseñado perfectamente para sus necesidades</p>
                                 <div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
                                     <a href="#masinformacion" class="skill-btn">MÁS INFORMACIÓN</a>
-                                    <div class="learnmore2">
+                                    <!--<div class="learnmore2">
                                         <a href="https://www.youtube.com/watch?v=0WMAgB2dpEw" class="skill-btn-youtube popup-youtube"><i class="far fa-play-circle"></i></a>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
                         </div>

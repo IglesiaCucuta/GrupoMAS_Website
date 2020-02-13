@@ -42,7 +42,7 @@ $paginagrupomas = "contacto";
 					<div class="col-xl-4 col-lg-12 col-md-12 col-sm-12">
 						<div class="single-contact-info">
 							<div class="info-icon">
-								<i class="far fa-envelope"></i>
+								<i class="fas fa-envelope"></i>
 							</div>
 							<div class="info-content">
 								<h5>Juan Carlos Díaz</h5>
@@ -71,7 +71,7 @@ $paginagrupomas = "contacto";
 							<div class="info-content">
 								<h5>Carol Mendoza</h5>
 								<h6>Ventas y Mercadeo</h6>
-								<span>ventas@grupodecomuniacionesmas.com</span>
+								<span>ventas@grupodecomunicacionesmas.com</span>
 							</div>
 						</div>
 					</div>
