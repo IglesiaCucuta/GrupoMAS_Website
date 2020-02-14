@@ -35,9 +35,10 @@ $paginagrupomas = "medios";
 
     <?php include_once('inc/navbar.php'); ?>
     <!-- =========About Header Image Area=========== -->
-    <div class="about-hero-banner">
+    <div style="-webkit-filter: brightness(0.7); background-color: #fefefe;" class="p-4">
+        <br><br>
+        <img src="img/HeaderGrupoMAS.png" class="img-fluid" />
     </div>
-    
     <section>
         <div class="portfolio-area">
             <div class="container">
@@ -68,28 +69,14 @@ $paginagrupomas = "medios";
                             <div class="s-blog-image">
                                 <img src="img/blog/1.jpg" alt="">
                                 <div class="blog-post-date">
-                                    <span>Radio</span>
+                                    <span>Radio, TV</span>
                                 </div>
                             </div>
                             <div class="s-blog-content">
-                                <h4>Frecuencia F</h4>
+                                <h4>Frecuencia F: Radio y TV</h4>
                                 <p>Contamos con una emisora AM en la frecuencia de los 1370 en el área metropolitana de Cúcuta, con transmisión 24/7 en su dial, además de señal por internet</p>
-                                <a href="https://frecuenciaf.com/radio">Conoce la radio</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
-                        <div class="home-single-blog">
-                            <div class="s-blog-image">
-                                <img src="img/blog/3.png" alt="">
-                                <div class="blog-post-date">
-                                    <span>TV</span>
-                                </div>
-                            </div>
-                            <div class="s-blog-content">
-                                <h4>Frecuencia F TV</h4>
-                                <p>Comenzando transmisión en Agosto de 2018, actualmente llega a varios municipios de Norte de Santander a través de los operadores Cable Éxito y TVNorte</p>
-                                <a href="https://frecuenciaf.com/tv">Conoce el canal</a>
+                                <br>
+                                <a class="skill-btn" href="https://frecuenciaf.com/">Conoce la radio y el canal</a>
                             </div>
                         </div>
                     </div>
@@ -104,7 +91,24 @@ $paginagrupomas = "medios";
                             <div class="s-blog-content">
                                 <h4>Boletín Dominical</h4>
                                 <p>Llegando cada semana directamente a la mano de los más de 4000 asistentes dominicales de la Iglesia Centro Cristiano en el barrio Los Pinos.</p>
-                                <a href="https://revistahaymas.com">Conoce además, la revista</a>
+                                <br>
+                                <a class="skill-btn" href="https://centrocristiano.com.co/boletines-recursos">Encuentra aquí los boletines</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="home-single-blog">
+                            <div class="s-blog-image">
+                                <img src="img/blog/2.png" alt="">
+                                <div class="blog-post-date">
+                                    <span>Impresos</span>
+                                </div>
+                            </div>
+                            <div class="s-blog-content">
+                                <h4>Revista Hay Más</h4>
+                                <p>Llegando trimestralmente a toda la ciudad de Cúcuta y Norte de Santander a través de nuestros aliados empresariales como la Iglesia Centro Cristiano.</p>
+                                <br>
+                                <a class="skill-btn" href="https://revistahaymas.com">Conoce más de la revista</a>
                             </div>
                         </div>
                     </div>
@@ -119,7 +123,8 @@ $paginagrupomas = "medios";
                             <div class="s-blog-content">
                                 <h4>Redes Sociales</h4>
                                 <p>Somos los encargados de administrar la presencia en internet de la Iglesia Centro Cristiano y de su pastor fundador, el misionero José Satirio Dos Santos.</p>
-                                <a href="https://www.centrocristiano.com.co">Conoce más de la iglesia</a>
+                                <br>
+                                <a class="skill-btn" href="https://www.centrocristiano.com.co">Conoce más de la iglesia</a>
                             </div>
                         </div>
                     </div>

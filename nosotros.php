@@ -35,7 +35,9 @@ $paginagrupomas = "nosotros";
 
     <?php include_once('inc/navbar.php'); ?>
     <!-- =========About Header Image Area=========== -->
-    <div class="about-hero-banner">
+    <div style="-webkit-filter: brightness(0.7); background-color: #fefefe;" class="p-4">
+        <br><br>
+        <img src="img/HeaderGrupoMAS.png" class="img-fluid" />
     </div>
     <!-- =========About Conetnt Area=========== -->
     <section id="about">
@@ -108,7 +110,7 @@ $paginagrupomas = "nosotros";
                 </div>
                 <div class="col-xl-12">
                     <div class="row">
-
+                        <!--
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 offset-xl-2 offset-lg-2 single-count-item-mb">
                             <div class="single-count-area"><img src="img/counter/manager.png" alt="">
                                 <br><br>
@@ -128,6 +130,7 @@ $paginagrupomas = "nosotros";
                                 Bajo la línea
                             </div>
                         </div>
+                        -->
                         
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
                             <div class="single-count-area"><img src="img/counter/manager.png" alt="">

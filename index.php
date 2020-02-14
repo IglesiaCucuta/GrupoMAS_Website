@@ -100,11 +100,10 @@ $paginagrupomas = "inicio";
                         <div class="section-heading-1 home-about-text">
                             <h4>¿QUÉ ES...</h4>
                             <h3>Grupo de Comunicaciones MÁS?</h3>
-                            <p>Diferentes tipos de observación que trabajamos unidos para enforcarnos en un punto.</p>
-                            <p>Usted es nuestro socio, nuestro amigo, nuestro cliente. Nos enfocamos para que unidos lleguemos MÁS lejos.</p>
-                            <div class="section-button">
-                                <a href="/nosotros">Conoce más</a>
-                            </div>
+                            <p>Una organización que busca sumar a las empresas para que juntos lleguemos <b>MÁS</b> lejos.
+                            Usted es nuestro socio, nuestro amigo, nuestro cliente. Porque siempre <b>HAY MÁS</b>.</p>
+                            <br>
+                            <a href="/nosotros" class="skill-btn">Conoce más</a>
                             <div class="e-pattern">
                                 <img src="img/expertise/e-pattern.png" alt="">
                             </div>

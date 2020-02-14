@@ -33,7 +33,9 @@ $paginagrupomas = "contacto";
 
     <?php include_once('inc/navbar.php'); ?>
 	<!-- =========Contact Image Area=========== -->
-	<div class="contact-hero-banner">
+	<div style="-webkit-filter: brightness(0.7); background-color: #fefefe;" class="p-4">
+		<br><br>
+		<img src="img/HeaderGrupoMAS.png" class="img-fluid" />
 	</div>
 	<div class="contactus-area">
 		<div class="container">
@@ -101,6 +103,14 @@ $paginagrupomas = "contacto";
 								<span>Calle 5N No. 7AE-160 4to Piso, Cúcuta, Norte de Santander</span>
 							</div>
 						</div>
+					</div>
+				</div>
+			</div>
+			<hr>
+			<div class="row">
+				<div class="col-12">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe src="https://www.google.com/maps/d/embed?mid=1uO5ZySEa2tcnOzyICdurgs4TcOsyh78K&hl=es-419" width="100%" height="500" class="embed-responsive-item"></iframe>
 					</div>
 				</div>
 			</div>
