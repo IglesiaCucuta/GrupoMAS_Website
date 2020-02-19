@@ -67,7 +67,7 @@ $paginagrupomas = "medios";
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
-                                <img src="img/blog/1.jpg" alt="">
+                                <img src="img/pagina/radioytv1.jpg" alt="">
                                 <div class="blog-post-date">
                                     <span>Radio, TV</span>
                                 </div>
@@ -83,7 +83,7 @@ $paginagrupomas = "medios";
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
-                                <img src="img/blog/2.png" alt="">
+                                <img src="img/pagina/boletin1.jpg" alt="">
                                 <div class="blog-post-date">
                                     <span>Impresos</span>
                                 </div>
@@ -99,7 +99,7 @@ $paginagrupomas = "medios";
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
-                                <img src="img/blog/2.png" alt="">
+                                <img src="img/pagina/revistahaymas2.jpg" alt="">
                                 <div class="blog-post-date">
                                     <span>Impresos</span>
                                 </div>
@@ -115,7 +115,7 @@ $paginagrupomas = "medios";
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                         <div class="home-single-blog">
                             <div class="s-blog-image">
-                                <img src="img/blog/1.jpg" alt="">
+                                <img src="img/pagina/redessociales2.jpg" alt="">
                                 <div class="blog-post-date">
                                     <span>Digital</span>
                                 </div>

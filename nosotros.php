@@ -133,21 +133,21 @@ $paginagrupomas = "nosotros";
                         -->
                         
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
-                            <div class="single-count-area"><img src="img/counter/manager.png" alt="">
+                            <div class="single-count-area"><img src="img/pagina/produccionaudio1.jpg" alt="" class="img-fluid">
                                 <br><br>
                                 <p>Producción de Audio</p>
                             </div>
                         </div>
                         
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
-                            <div class="single-count-area"><img src="img/counter/chart.png" alt="">
+                            <div class="single-count-area"><img src="img/pagina/producciontv1.jpg" alt="" class="img-fluid">
                                 <br><br>
                                 <p>Producción de Video</p>
                             </div>
                         </div>
                         
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
-                            <div class="single-count-area"><img src="img/counter/chart.png" alt="">
+                            <div class="single-count-area"><img src="img/pagina/producciongrafica1.jpg" alt="" class="img-fluid">
                                 <br><br>
                                 <p>Producción Gráfica</p>
                             </div>
