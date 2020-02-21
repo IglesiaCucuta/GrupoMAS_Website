@@ -22,6 +22,10 @@
                         <div class="main-menu f-right">
                             <nav id="mobile-menu">
                                 <ul>
+                                    <li class="d-none d-md-inline"><a class="footer-socials" href="https://facebook.com/TuFrecuenciaF"><i class="fab fa-facebook"></i></a></li>
+                                    <li class="d-none d-md-inline"><a class="footer-socials" href="https://instagram.com/TuFrecuenciaF"><i class="fab fa-instagram"></i></a></li>
+                                    <li class="d-none d-md-inline"><a class="footer-socials" href="https://twitter.com/TuFrecuenciaF"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="d-none d-md-inline"><a class="footer-socials" href="https://youtube.com/TuFrecuenciaF"><i class="fab fa-youtube"></i></a></li>
                                     <li>
                                         <a <?php echo ($paginagrupomas == "inicio") ? 'class="current"' : ''; ?> href="./">Página principal</a>
                                     </li>
@@ -33,7 +37,6 @@
                                         </a>
                                         <ul class="dropdown">
                                             <li><a href="https://frecuenciaf.com/">Radio</a></li>
-                                            <li><a href="https://frecuenciaf.com/tv">TV</a></li>
                                             <li><a href="./medios#impresos">Impresos</a></li>
                                             <li><a href="./medios#digital">Digital</a></li>
                                         </ul>
