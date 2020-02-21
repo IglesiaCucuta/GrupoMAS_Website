@@ -102,10 +102,10 @@ $paginagrupomas = "nosotros";
                 <div class="col-xl-12 d-flex align-items-center">
                     <div class="section-heading-2 section-heading-2-p-a about-counter-text">
                         <h3>¿Qué hacemos?</h3>
-                        <p>Un proceso de comunicación MÁS fácil. Nos unimos para generar ideas que permitan dar a conocer su producto o servicio con efectividad.</p>
+                        <p>Un proceso de comunicación MÁS fácil. Nos unimos para generar ideas que permitan dar a conocer tu producto o servicio con efectividad.</p>
                         <br>
-                        <h4>¿Cómo lo hacemos?</h4>
-                        <p>Eso lo verá a continuación...</p>
+                        <h3>¿Cómo lo hacemos?</h3>
+                        <p>Eso lo verás a continuación...</p>
                     </div>
                 </div>
                 <div class="col-xl-12">

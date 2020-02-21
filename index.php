@@ -49,8 +49,8 @@ $paginagrupomas = "inicio";
                         <div class="col-xl-12 col-lg-12 col-md-12">
                             <!--header text-->
                             <div class="intro-text">
-                                <h1>¿NO SABE <br>QUÉ HACER?</h1>
-                                <p>Tenemos un plan diseñado perfectamente para sus necesidades</p>
+                                <h1>¿NO SABES <br>QUÉ HACER?</h1>
+                                <p>Tenemos un plan diseñado perfectamente para tus necesidades</p>
                                 <div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
                                     <a href="#masinformacion" class="skill-btn">MÁS INFORMACIÓN</a>
                                     <!--<div class="learnmore2">
@@ -101,7 +101,7 @@ $paginagrupomas = "inicio";
                             <h4>¿QUÉ ES...</h4>
                             <h3>Grupo de Comunicaciones MÁS?</h3>
                             <p>Una organización que busca sumar a las empresas para que juntos lleguemos <b>MÁS</b> lejos.
-                            Usted es nuestro socio, nuestro amigo, nuestro cliente. Porque siempre <b>HAY MÁS</b>.</p>
+                            Eres nuestro socio, nuestro amigo, nuestro cliente. Porque siempre <b>HAY MÁS</b>.</p>
                             <br>
                             <a href="/nosotros" class="skill-btn">Conoce más</a>
                             <div class="e-pattern">

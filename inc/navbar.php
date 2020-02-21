@@ -37,6 +37,7 @@
                                         </a>
                                         <ul class="dropdown">
                                             <li><a href="https://frecuenciaf.com/">Radio</a></li>
+                                            <li><a href="./medios#impresos">TV</a></li>
                                             <li><a href="./medios#impresos">Impresos</a></li>
                                             <li><a href="./medios#digital">Digital</a></li>
                                         </ul>
