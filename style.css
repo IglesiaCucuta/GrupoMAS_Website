@@ -133,13 +133,13 @@ body {
 }
 
 ::-moz-selection {
-	background: #3ed60e;
+	background: #323657;
 	color: #fff;
 	text-shadow: none;
 }
 
 ::selection {
-	background: #3ed60e;
+	background: #323657;
 	color: #fff;
 	text-shadow: none;
 }
