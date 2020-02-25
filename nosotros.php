@@ -104,8 +104,8 @@ $paginagrupomas = "nosotros";
                         <h3>¿Qué hacemos?</h3>
                         <p>Un proceso de comunicación MÁS fácil. Nos unimos para generar ideas que permitan dar a conocer tu producto o servicio con efectividad.</p>
                         <br>
-                        <h3>¿Cómo lo hacemos?</h3>
-                        <p>Eso lo verás a continuación...</p>
+                        <!--<h3>¿Cómo lo hacemos?</h3>
+                        <p>Eso lo verás a continuación...</p>-->
                     </div>
                 </div>
                 <div class="col-xl-12">
@@ -130,7 +130,7 @@ $paginagrupomas = "nosotros";
                                 Bajo la línea
                             </div>
                         </div>
-                        -->
+                        
                         
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 single-count-item-mb">
                             <div class="single-count-area"><img src="img/pagina/produccionaudio1.jpg" alt="" class="img-fluid">
@@ -152,6 +152,7 @@ $paginagrupomas = "nosotros";
                                 <p>Producción Gráfica</p>
                             </div>
                         </div>
+                        -->
                     </div>
                 </div>
             </div>

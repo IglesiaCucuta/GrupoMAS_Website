@@ -47,8 +47,7 @@ $paginagrupomas = "contacto";
 								<i class="fas fa-envelope"></i>
 							</div>
 							<div class="info-content">
-								<h5>Juan Carlos Díaz</h5>
-								<h6>Gerente</h6>
+								<h6>Gerencia</h6>
 								<span>gerencia@grupodecomunicacionesmas.com</span>
 							</div>
 						</div>
@@ -59,7 +58,6 @@ $paginagrupomas = "contacto";
 								<i class="fas fa-envelope"></i>
 							</div>
 							<div class="info-content">
-								<h5>Leidy Romero Guillén</h5>
 								<h6>Contabilidad</h6>
 								<span>contabilidad@grupodecomunicacionesmas.com</span>
 							</div>
@@ -71,7 +69,6 @@ $paginagrupomas = "contacto";
 								<i class="fas fa-envelope"></i>
 							</div>
 							<div class="info-content">
-								<h5>Carol Mendoza</h5>
 								<h6>Ventas y Mercadeo</h6>
 								<span>ventas@grupodecomunicacionesmas.com</span>
 							</div>

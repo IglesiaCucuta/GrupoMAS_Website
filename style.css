@@ -244,8 +244,9 @@ ul {
 /*1.2 Section Heading*/
 
 .section-heading-1 h4 {
-	font-size: 23px;
+	font-size: 18px;
 	text-transform: none;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .section-heading-1 h3 {
@@ -253,8 +254,9 @@ ul {
 	font-weight: 700;
 	margin-bottom: 35px;
 	position: relative;
-	font-size: 35px;
-	display: inline-block
+	font-size: 30px;
+	display: inline-block;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .section-heading-1 h3:before {
@@ -280,17 +282,19 @@ ul {
 }
 
 .section-heading-2 h4 {
-	font-size: 23px;
+	font-size: 25px;
 	text-transform: none;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .section-heading-2 h3 {
 	text-transform: none;
 	font-weight: 700;
-	margin-bottom: 35px;
+	margin-bottom: 30px;
 	position: relative;
-	font-size: 35px;
-	display: inline-block
+	font-size: 30px;
+	display: inline-block;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .section-heading-2 h3:before {
@@ -315,6 +319,7 @@ ul {
 .section-heading-3 h4 {
 	font-size: 23px;
 	text-transform: none;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .section-heading-3 h3 {
@@ -324,6 +329,7 @@ ul {
 	position: relative;
 	font-size: 35px;
 	display: inline-block
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .section-heading-3 h3:before {
@@ -832,6 +838,7 @@ ul.dropdown li a:after {
 	color: #3e3d3d;
 	margin-bottom: 10px;
 	font-weight: 900;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 /*3.4 Header Button */
@@ -1541,6 +1548,7 @@ ul.dropdown li a:after {
 	font-weight: 700;
 	color: #323657;
 	text-transform: none;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .s-blog-content a {
@@ -3096,6 +3104,7 @@ footer p {
 	font-weight: 600;
 	text-transform: none;
 	margin-bottom: 15px;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 .about-section-separate {
@@ -3189,6 +3198,6 @@ footer p {
 }
 
 .callto-action-btn a:hover {
-	background: linear-gradient(252.62deg, #84FC6A 8.92%, #48D6F2 96.59%);
+	background: linear-gradient(252.62deg, #323657 8.92%, #323657 96.59%);
 	border: 2px solid transparent
 }
