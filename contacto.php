@@ -21,6 +21,7 @@ $paginagrupomas = "contacto";
     <!-- Meanmenu css -->
     <link rel="stylesheet" href="css/meanmenu.css">
     <!-- Main CSS -->
+    <link rel="stylesheet" href="css/antonfirasans.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
 </head>

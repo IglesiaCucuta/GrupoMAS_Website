@@ -23,6 +23,7 @@ $paginagrupomas = "medios";
     <!-- Magnific css -->
     <link rel="stylesheet" href="css/magnific-popup.min.css">
     <!-- Main CSS -->
+    <link rel="stylesheet" href="css/antonfirasans.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
 </head>

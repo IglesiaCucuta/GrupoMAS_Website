@@ -2439,13 +2439,14 @@ footer p {
 }
 
 .info-content h6 {
-	background: linear-gradient(238.45deg, #42D2FF 10.32%, #49e513 88.6%);
+	background: linear-gradient(238.45deg, #323657 10.32%, #323657 88.6%);
 	background-clip: border-box;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
 	font-weight: 700;
 	text-transform: none;
-	font-size: 22px
+	font-size: 22px;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 /*16.4 Contact Form*/
