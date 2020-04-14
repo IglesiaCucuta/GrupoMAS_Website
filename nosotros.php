@@ -64,7 +64,7 @@ $paginagrupomas = "nosotros";
                     <div class="col-xl-6 col-lg-6 col-md-6 margin-top-lb-30 margin-top-sb-30">
                         <div class="youtube-video-wrapper">
                             <div class="popup-gallery">
-                                <a class="popup-youtube video-play-button" href="https://www.youtube.com/watch?v=IMbG5et2pZw"><span></span></a>
+                                <a class="popup-youtube video-play-button" href="https://www.youtube.com/watch?v=0WMAgB2dpEw"><span></span></a>
                             </div>
                         </div>
                     </div>
