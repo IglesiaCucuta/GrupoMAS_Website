@@ -52,5 +52,25 @@
     "genres": [
       "faith"
     ]
-	}]
+	}],
+  "playlists": [
+    {
+  		"name": "Marca",
+  		"itemIds": ["00000001"]
+  	}, {
+  		"name": "live",
+  		"itemIds": ["00001370"]
+  	}],
+  	"categories": [
+      {
+  		  "name": "Live Stream",
+  		  "playlistName": "live",
+  		  "order": "manual"
+  	   },
+       {
+  		  "name": "Marca",
+  	  	"playlistName": "Marca",
+  	  	"order": "manual"
+  	}
+  ]
 }
