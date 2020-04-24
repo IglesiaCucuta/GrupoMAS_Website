@@ -1,6 +1,6 @@
 {
 	"providerName": "Grupo de Comunicaciones MAS",
-	"lastUpdated": "2020-04-24T21:00:15+00:00",
+	"lastUpdated": "2020-04-24T21:30:15+00:00",
 	"language": "es",
   "shortFormVideos": [
     {
@@ -42,8 +42,8 @@
       "language": [
         "es"
       ],
-		"thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-		"brandedThumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+		"thumbnail": "https://vod.frecuenciaf.com/poster.png",
+		"brandedThumbnail": "https://vod.frecuenciaf.com/poster.png",
 		"shortDescription": "Señal en vivo de Frecuencia F TV",
 		"longDescription": "Señal en vivo de Frecuencia F TV, transmitiendo desde Cúcuta, Colombia",
     "tags": [
