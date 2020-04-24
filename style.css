@@ -247,6 +247,7 @@ ul {
 	font-size: 18px;
 	text-transform: none;
 	font-family: 'Fira Sans', sans-serif;
+	color: black;
 }
 
 .section-heading-1 h3 {
@@ -257,6 +258,7 @@ ul {
 	font-size: 30px;
 	display: inline-block;
 	font-family: 'Fira Sans', sans-serif;
+	color: black;
 }
 
 .section-heading-1 h3:before {
@@ -264,7 +266,7 @@ ul {
 	content: '';
 	right: 0;
 	bottom: -15px;
-	background-color: #66E9AE;
+	background-color: #c31628;
 	height: 5px;
 	width: 70px;
 }
@@ -285,6 +287,7 @@ ul {
 	font-size: 25px;
 	text-transform: none;
 	font-family: 'Fira Sans', sans-serif;
+	color: black;
 }
 
 .section-heading-2 h3 {
@@ -295,6 +298,7 @@ ul {
 	font-size: 30px;
 	display: inline-block;
 	font-family: 'Fira Sans', sans-serif;
+	color: black;
 }
 
 .section-heading-2 h3:before {
@@ -302,7 +306,7 @@ ul {
 	content: '';
 	left: 0;
 	bottom: -15px;
-	background-color: #66E9AE;
+	background-color: #c31628;
 	height: 5px;
 	width: 70px;
 }
@@ -320,6 +324,7 @@ ul {
 	font-size: 23px;
 	text-transform: none;
 	font-family: 'Fira Sans', sans-serif;
+	color: black;
 }
 
 .section-heading-3 h3 {
@@ -330,6 +335,7 @@ ul {
 	font-size: 35px;
 	display: inline-block
 	font-family: 'Fira Sans', sans-serif;
+	color: black;
 }
 
 .section-heading-3 h3:before {
@@ -345,7 +351,8 @@ ul {
 
 /*1.3 Section Button*/
 .section-button a {
-	background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/* background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	box-shadow: 0px 2px 15px rgba(164, 164, 164, 0.25);
 	border-radius: 68px;
 	color: #fff;
@@ -358,7 +365,8 @@ ul {
 }
 
 .section-button a:hover {
-	background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);
+	/*background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);*/
+	background: #c31628;
 }
 
 /*1.4 Section Pattern Animation*/
@@ -427,7 +435,7 @@ ul {
 }
 
 .main-menu ul li a:hover {
-	color: #84FC6A;
+	color: #c31628;;
 }
 
 .main-menu ul li a:before {
@@ -435,7 +443,8 @@ ul {
 	position: absolute;
 	width: 0px;
 	height: 3px;
-	background-color: #84FC6A;
+	/* background-color: #84FC6A;*/
+	background-color: #c31628;
 	left: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -448,7 +457,8 @@ ul {
 	position: absolute;
 	width: 0px;
 	height: 3px;
-	background-color: #84FC6A;
+	/*background-color: #84FC6A;*/
+	background-color: #000;
 	right: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -462,7 +472,8 @@ ul {
 	position: absolute;
 	width: 50%;
 	height: 3px;
-	background-color: #84FC6A;
+	/*background-color: #84FC6A;*/
+	background-color: #000;
 	left: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -476,7 +487,8 @@ ul {
 	position: absolute;
 	width: 50%;
 	height: 3px;
-	background-color: #84FC6A;
+	/*background-color: #84FC6A;*/
+	background-color: #000;
 	right: 0;
 	top: 67%;
 	-webkit-transition: .7s;
@@ -486,7 +498,7 @@ ul {
 }
 
 .main-menu ul li a.current {
-	color: #84FC6A;
+	color: #c31628;
 }
 
 .main-menu ul li a:hover:before {
@@ -528,7 +540,7 @@ ul {
 	-webkit-box-shadow: 0px 0px 20px rgba(20, 20, 20, 0.1);
 	box-shadow: 0px 0px 20px rgba(20, 20, 20, 0.1);
 	border: solid 3px transparent;
-	border-image: linear-gradient(238.45deg, #49e513 3.32%, #42D2FF 98.6%);
+	border-image: linear-gradient(238.45deg, #c31628 3.32%, #c31628 98.6%);
 	border-image-slice: 1;
 	opacity: 0;
 	visibility: hidden;
@@ -563,7 +575,7 @@ ul.dropdown li a:after {
 }
 
 .main-menu ul li ul.dropdown li a:hover {
-	background: linear-gradient(238.45deg, #42D2FF 3.32%, #49e513 98.6%);
+	background: linear-gradient(238.45deg, #c31628 3.32%, #c31628 98.6%);
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text
 }
@@ -578,7 +590,7 @@ ul.dropdown li a:after {
 	-webkit-transition: .5s;
 	transition: .5s;
 	position: relative;
-	color: #646572;
+	color: #000;
 	font-weight: 600
 }
 
@@ -591,7 +603,8 @@ ul.dropdown li a:after {
 	right: 0;
 	width: 100%;
 	z-index: 99;
-	background: linear-gradient(270deg, #00B0E7 0%, #75F389 100%);
+	/*background: linear-gradient(270deg, #00B0E7 0%, #75F389 100%);*/
+	background: white;
 	-webkit-box-shadow: 0px 0px 4px #016946;
 	box-shadow: 0px 0px 50px #60636242;
 	-webkit-transition: all 1s ease 0s;
@@ -720,7 +733,7 @@ ul.dropdown li a:after {
 	height: 100vh;
 	width: 100%;
 	background-repeat: no-repeat;
-	background-image: url('img/GIFHome.gif');
+	background-image: url('img/Homelogos.png');
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: top;
@@ -856,9 +869,7 @@ ul.dropdown li a:after {
 }
 
 .skill-btn {
-	background: #323657;
-	-webkit-box-shadow: 0px 1px 26px rgba(41, 147, 34, 0.62);
-	box-shadow: 0px 1px 26px rgba(41, 147, 34, 0.62);
+	background: #c31628;
 	border-radius: 50px;
 	text-decoration: none;
 	color: #fff;
@@ -882,8 +893,8 @@ ul.dropdown li a:after {
 }
 
 .skill-btn:hover {
-	color: #323657;
-	background-color: #fff
+	color: #fff;
+	background-color: #000;
 }
 
 /*========= 4. Home About Area CSS =========*/
@@ -977,7 +988,8 @@ ul.dropdown li a:after {
 
 /*5.4 Single Service Text*/
 .service-text h3 {
-	background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);
+	/*background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);*/
+	background: #c31628;
 	background-clip: border-box;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
@@ -1112,7 +1124,8 @@ ul.dropdown li a:after {
 }
 
 .item-text h5 {
-	background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);
+	/*background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);*/
+	background: #c31628;
 	background-clip: border-box;
 	background-clip: border-box;
 	-webkit-text-fill-color: transparent;
@@ -1394,7 +1407,8 @@ ul.dropdown li a:after {
 }
 
 .single-price:hover .price-button a {
-	background: linear-gradient(252.64deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(252.64deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 }
 
 .package h3 {
@@ -1463,7 +1477,8 @@ ul.dropdown li a:after {
 }
 
 .price-button.active-b a {
-	background: linear-gradient(252.64deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(252.64deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	color: #fff;
 }
 
@@ -1521,9 +1536,8 @@ ul.dropdown li a:after {
 	position: absolute;
 	right: 0;
 	top: 30px;
-	background: linear-gradient(255.91deg, #79F583 5.33%, #4EDAE5 92.37%);
-	border-radius: 30px 0px 0px 30px;
-	background: linear-gradient(255.91deg, #79F583 5.33%, #4EDAE5 92.37%);
+	/*background: linear-gradient(255.91deg, #79F583 5.33%, #4EDAE5 92.37%);*/
+	background: #c31628;
 	border-radius: 30px 0px 0px 30px;
 	color: #fff;
 	width: 80px;
@@ -1546,7 +1560,7 @@ ul.dropdown li a:after {
 
 .s-blog-content h4 {
 	font-weight: 700;
-	color: #323657;
+	color: #c31628;
 	text-transform: none;
 	font-family: 'Fira Sans', sans-serif;
 }
@@ -1554,16 +1568,14 @@ ul.dropdown li a:after {
 .s-blog-content a {
 	font-weight: 700;
 	display: inline-block;
-	color: #42D2FE;
+	color: #fff;
 	margin-top: 5px;
 	margin-bottom: 10px
 }
 
 .s-blog-content a:hover {
-	background: linear-gradient(238.45deg, #49e513 3.32%, #42D2FF 98.6%);
+	background: black;
 	background-clip: border-box;
-	-webkit-text-fill-color: transparent;
-	-webkit-background-clip: text;
 }
 
 /*========= 11. Footer Area CSS ==========*/
@@ -1610,7 +1622,7 @@ ul.dropdown li a:after {
 }
 
 .social ul li a:hover {
-	color: #85FF7F
+	color: #c31628
 }
 
 /*12.2 Footer Content*/
@@ -1659,7 +1671,8 @@ ul.dropdown li a:after {
 }
 
 .footer-content form input#subscribe {
-	background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	box-shadow: 0px 2px 15px rgba(164, 164, 164, 0.25);
 	border-radius: 68px;
 	border: none;
@@ -1836,7 +1849,8 @@ footer p {
 
 .blog-share ul li a {
 	display: inline-block;
-	background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	color: #fff;
 	height: 30px;
 	width: 30px;
@@ -1975,7 +1989,8 @@ footer p {
 }
 
 .tag-list ul li a:hover {
-	background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	border: 1px solid transparent
 }
 
@@ -2028,7 +2043,8 @@ footer p {
 }
 
 .text-box a.replay:hover {
-	background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/* background: linear-gradient(252.62deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 }
 
 .nesting-reply {
@@ -2068,7 +2084,8 @@ footer p {
 }
 
 .comment-field #postcomment {
-	background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	border-radius: 68px;
 	color: #fff;
 	padding: 10px 30px;
@@ -2082,7 +2099,8 @@ footer p {
 }
 
 .comment-field #postcomment:hover {
-	background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);
+	/* background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);*/
+	background: #c31628;
 }
 
 /*=========== 14. Blog List Area CSS =============*/
@@ -2294,7 +2312,8 @@ footer p {
 
 .team-social ul li a:hover {
 	color: #fff;
-	background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/*background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	border: 1px solid transparent
 }
 
@@ -2428,7 +2447,7 @@ footer p {
 
 .info-icon i {
 	/*background: linear-gradient(180deg, #89F794 0%, #4EDAE5 100%);*/
-	background: #323657;
+	background: #c31628;
 	color: #fff;
 	height: 90px;
 	width: 90px;
@@ -2504,7 +2523,8 @@ footer p {
 }
 
 #formsend {
-	background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);
+	/* background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: #c31628;
 	color: #fff;
 	border: none;
 	padding: 12px 42px;
@@ -2517,7 +2537,8 @@ footer p {
 }
 
 #formsend:hover {
-	background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);
+	/*background: linear-gradient(253.52deg, #84FC6A 8.92%, #48D6F2 96.59%);*/
+	background: #c31628;
 }
 
 /*=========== 17. Portfolio Area CSS ==============*/
@@ -2627,7 +2648,8 @@ footer p {
 }
 
 .portfolio-content a {
-	background: linear-gradient(to bottom, #84FC6A 8.92%, #48D6F2 96.59%);
+	/* background: linear-gradient(to bottom, #84FC6A 8.92%, #48D6F2 96.59%);*/
+	background: #c31628;
 	background-clip: border-box;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
@@ -2926,7 +2948,7 @@ footer p {
 	display: block;
 	width: 80px;
 	height: 80px;
-	background: #33b506;
+	background: #c31628;
 	border-radius: 50%;
 	-webkit-animation: pulse-border 1500ms ease-out infinite;
 	animation: pulse-border 1500ms ease-out infinite;
@@ -2943,14 +2965,14 @@ footer p {
 	display: block;
 	width: 80px;
 	height: 80px;
-	background: rgba(132, 252, 106, 0.5);
+	background: rgba(195, 22, 40, 0.5);
 	border-radius: 50%;
 	-webkit-transition: all 200ms;
 	transition: all 200ms;
 }
 
 .video-play-button:hover:after {
-	background: #6ef43f;
+	background: #c31628;
 }
 
 .video-play-button img {
@@ -3199,6 +3221,6 @@ footer p {
 }
 
 .callto-action-btn a:hover {
-	background: linear-gradient(252.62deg, #323657 8.92%, #323657 96.59%);
+	background: #c31628;
 	border: 2px solid transparent
 }

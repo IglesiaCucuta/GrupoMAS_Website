@@ -39,21 +39,15 @@ $paginagrupomas = "inicio";
         <div class="header-content-area">
             <div class="container">
                 <!--header pattern-->
-                <div class="header-pattern-1">
-                    <img src="img/spin.png" alt="">
-                </div>
-                <div class="header-pattern-2">
-                    <img src="img/spin.png" alt="">
-                </div>
                 <div class="header-animation-area">
                     <div class="row">
                         <div class="col-xl-12 col-lg-12 col-md-12">
                             <!--header text-->
                             <div class="intro-text">
-                                <h1>¿NO SABES <br>QUÉ HACER?</h1>
-                                <p>Tenemos un plan diseñado perfectamente para tus necesidades</p>
+                                <h1>El virus</h1>
+                                <p>Nos enseña que debemos estar en todos los medios</p>
                                 <div class="learnmore" data-aos="fade-in" data-aos-anchor-placement="top-bottom" data-aos-delay="1500" data-aos-duration="1200">
-                                    <a href="#masinformacion" class="skill-btn">MÁS INFORMACIÓN</a>
+                                    <a href="/nosotros" class="skill-btn">MÁS INFORMACIÓN</a>
                                     <!--<div class="learnmore2">
                                         <a href="https://www.youtube.com/watch?v=0WMAgB2dpEw" class="skill-btn-youtube popup-youtube"><i class="far fa-play-circle"></i></a>
                                     </div>-->
