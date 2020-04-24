@@ -1,6 +1,6 @@
 {
 	"providerName": "Grupo de Comunicaciones MAS",
-	"lastUpdated": "2020-04-24T20:30:15+00:00",
+	"lastUpdated": "2020-04-24T21:00:15+00:00",
 	"language": "es",
   "shortFormVideos": [
     {
@@ -10,18 +10,19 @@
         "dateAdded": "2020-04-24T20:30:15+00:00",
         "videos": [
           {
-            "url": "https://tv.frecuenciaf.com/static/mp4/lanzamiento.mp4",
+            "url": "https://tv.frecuenciaf.com/lanzamiento.mp4",
             "quality": "HD",
             "videoType": "MP4"
           }
-        ]
+        ],
+        "duration": 311
       },
       "language": [
         "es"
       ],
-      "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-      "shortDescription": "Astonishing short-form video",
-      "releaseDate": "2016-01-01"
+      "thumbnail": "https://vod.frecuenciaf.com/lanzamiento.png",
+      "shortDescription": "Video de lanzamiento Frecuencia F TV",
+      "releaseDate": "2018-05-05"
     }
   ],
 	"liveFeeds": [
