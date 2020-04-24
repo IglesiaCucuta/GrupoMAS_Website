@@ -2,9 +2,31 @@
 	"providerName": "Grupo de Comunicaciones MAS",
 	"lastUpdated": "2020-04-24T20:30:15+00:00",
 	"language": "es",
+  "shortFormVideos": [
+    {
+      "id": "00000001",
+      "title": "Lanzamiento Frecuencia F TV",
+      "content": {
+        "dateAdded": "2020-04-24T20:30:15+00:00",
+        "videos": [
+          {
+            "url": "https://tv.frecuenciaf.com/static/mp4/lanzamiento.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      },
+      "language": [
+        "es"
+      ],
+      "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+      "shortDescription": "Astonishing short-form video",
+      "releaseDate": "2016-01-01"
+    }
+  ],
 	"liveFeeds": [
     {
-      "id": "1370",
+      "id": "00001370",
       "title": "Frecuencia F TV",
       "content": {
         "dateAdded": "2020-04-24T20:30:15+00:00",
@@ -22,6 +44,12 @@
 		"thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
 		"brandedThumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
 		"shortDescription": "Señal en vivo de Frecuencia F TV",
-		"longDescription": "Señal en vivo de Frecuencia F TV, transmitiendo desde Cúcuta, Colombia"
+		"longDescription": "Señal en vivo de Frecuencia F TV, transmitiendo desde Cúcuta, Colombia",
+    "tags": [
+      "faith"
+    ],
+    "genres": [
+      "faith"
+    ]
 	}]
 }
