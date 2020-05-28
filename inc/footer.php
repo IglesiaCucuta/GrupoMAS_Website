@@ -64,6 +64,6 @@
         </div>
         <!--copyright-->
         <footer>
-            <p>Todos los derechos reservados. Grupo de Comunicaciones MÁS 2020</p>
+            <p>Todos los derechos reservados | Grupo de Comunicaciones M.Á.S. <?php echo date("Y"); ?> | <a style="color: cyan;" href="/politica-de-privacidad">Política de Privacidad</a></p>
         </footer>
     </section>
