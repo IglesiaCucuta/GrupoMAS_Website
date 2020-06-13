@@ -2,7 +2,7 @@
 ========================-->
     <div id='preloader'>
         <div id='status'>
-            <img src='img/loading.gif' alt='Cargando' />
+            <img src='/img/loading.gif' alt='Cargando' />
         </div>
     </div>
 
@@ -14,7 +14,7 @@
                     <!-- logo-area-->
                     <div class="col-xl-2 col-lg-3 col-md-3">
                         <div class="logo-area">
-                            <a href="./"><img src="img/LogoMAS_Navbar.png" alt="Grupo de Comunicaciones MÁS"></a>
+                            <a href="/"><img src="/img/LogoMAS_Navbar.png" alt="Grupo de Comunicaciones MÁS"></a>
                         </div>
                     </div>
                     <!-- mainmenu-area-->
@@ -37,13 +37,13 @@
                                         </a>
                                         <ul class="dropdown">
                                             <li><a href="https://frecuenciaf.com/">Radio</a></li>
-                                            <li><a href="./medios#impresos">TV</a></li>
-                                            <li><a href="./medios#impresos">Impresos</a></li>
-                                            <li><a href="./medios#digital">Digital</a></li>
+                                            <li><a href="/medios#impresos">TV</a></li>
+                                            <li><a href="/medios#impresos">Impresos</a></li>
+                                            <li><a href="/medios#digital">Digital</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a <?php echo ($paginagrupomas == "contacto") ? 'class="current"' : ''; ?> href="./contacto">Contacto</a>
+                                        <a <?php echo ($paginagrupomas == "contacto") ? 'class="current"' : ''; ?> href="/contacto">Contacto</a>
                                     </li>
                                 </ul>
                             </nav>
